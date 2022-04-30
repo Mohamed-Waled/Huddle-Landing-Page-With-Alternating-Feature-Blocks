@@ -20,7 +20,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Solution URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-using-bootstrap-ByuN87jHq)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/)
 
 ## My process
